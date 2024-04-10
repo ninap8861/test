@@ -1,0 +1,14 @@
+{
+  "name": "_sp2it_testnina",
+  "version": "1.0.0",
+  "description": "_SP2IT_TESTNINA",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/06CF12A9378D1EEEBDE53F89A956947D_0"
+  }
+}
